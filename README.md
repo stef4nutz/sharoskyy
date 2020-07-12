@@ -1,6 +1,7 @@
 ### Hi there 👋
 <ul>
 <li><a href="https://touka.fun">My current project</a></li>
+<li><a href="https://steamcommunity.com/id/sh4rosky">Steam</li></a>
 </ul>
 <!--
 **sharoskyy/sharoskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
