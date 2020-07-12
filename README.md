@@ -1,5 +1,7 @@
 ### Hi there 👋
-### <a href="https://touka.fun">My current project</a>
+<ul>
+<li><a href="https://touka.fun">My current project</a></li>
+</ul>
 <!--
 **sharoskyy/sharoskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
