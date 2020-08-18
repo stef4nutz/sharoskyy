@@ -22,7 +22,9 @@ Any concepts/design that I've made will be posted on <a href="https://www.behanc
 
 <ul>
 <a href="https://twitter.com/sharoskyy">twitter</a>
+  <br>
 <a href="https://steamcommunity.com/id/sh4rosky">steam</a>
+  <br>
 discord (sharosky#1337)
 </ul>
 
