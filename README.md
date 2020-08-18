@@ -17,9 +17,11 @@ Any concepts/design that I've made will be posted on <a href="https://www.behanc
 
 ### Social media 👥
 
+<ul>
 <a href="https://twitter.com/sharoskyy">twitter</a>
-<a href÷"https://steamcommunity.com/id/sh4rosky">steam</a>
+<a href="https://steamcommunity.com/id/sh4rosky">steam</a>
 discord (sharosky#1337)
+</ul>
 
 
 
