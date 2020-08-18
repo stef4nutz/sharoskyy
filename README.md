@@ -1,19 +1,36 @@
 ### Hi there 👋
+
+Hi, my name is Stephen (known as sharosky) and I am a 19 year old front-end developer.
+I plan to learn in the near future (but i'm too lazy): Rust & VueJS.
+
+### Maintained Projects 🛠
+
 <ul>
-<li><a href="https://touka.fun">My current project</a></li>
-<li><a href="https://steamcommunity.com/id/sh4rosky">Steam</li></a>
+<a href="https://nexs.ro">nexs.ro</a> — a gaming community for romanian people.
+<a href="https://touka.fun">touka.fun</a> — a discord bot that helps you lookup on MyAnimeList through Discord.
+<a href="httos://drawn.space">drawn.space</a> — a webdesign service.
 </ul>
-<!--
-**sharoskyy/sharoskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Behance 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Any concepts/design that I've made will be posted on <a href="https://www.behance.net/sharosky">behance</a> (if I don't forget)
+
+### Social media 👥
+
+<a href="https://twitter.com/sharoskyy">twitter</a>
+<a href÷"https://steamcommunity.com/id/sh4rosky">steam</a>
+discord (sharosky#1337)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
