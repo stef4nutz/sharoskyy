@@ -2,7 +2,7 @@
 
 Hi, my name is Stephen (known as sharosky) and I am a 19 year old front-end developer.
 <br>
-I plan to learn in the near future (but i'm too lazy): Rust & VueJS.
+I plan to learn in the near future (but i'm too lazy): ReactJS & VueJS.
 
 ### Maintained Projects 🛠
 
