@@ -23,6 +23,8 @@ Any concepts/design that I've made will be posted on <a href="https://www.behanc
   <br>
 <a href="https://steamcommunity.com/id/sh4rosky">steam</a>
   <br>
+  <a href="https://twitch.tv/sharoskyy/">twitch</a>
+  <br>
 discord (sharosky#1337)
 </ul>
 
