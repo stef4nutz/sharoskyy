@@ -9,11 +9,7 @@ I plan to learn in the near future (but i'm too lazy): NuxtJS
 ### Maintained Projects 🛠
 
 <ul>
-<a href="https://nexs.ro">nexs.ro</a> — a gaming community for romanian people.
-<br>
-<a href="https://touka.fun">touka.fun</a> — a discord bot that helps you lookup on MyAnimeList through Discord.
-<br>
-<a href="https://drawn.space">drawn.space</a> — a webdesign service.
+Currently, no maintained projects.
 </ul>
 
 ### Behance 📚
