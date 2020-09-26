@@ -6,7 +6,7 @@ Currently I'm learning: NextJS
 <br>
 I plan to learn in the near future (but i'm too lazy): NuxtJS
 
-### Maintained Projects 🛠
+### Maintained Projects 💻
 
 Currently, no maintained projects.
 
