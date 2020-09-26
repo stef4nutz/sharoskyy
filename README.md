@@ -30,10 +30,6 @@ Any concepts/design that I've made will be posted on <a href="https://www.behanc
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /></a>
 
-### Listening 🎶
-![Recently listening](https://spotify-recently-played-readme.vercel.app/api?user=y8guwub3gz3gutzez151d6p8m)
-
-
 
 
 
