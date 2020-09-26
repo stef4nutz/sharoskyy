@@ -31,7 +31,7 @@ discord (sharosky#1337)
 ### Tools 🛠
 
 ### Listening 🎶
-<img src="https://spotifyprofile.vercel.app/api/spotify-playing" width="350">
+<img src="https://spotifyprofile.vercel.app/api/spotify-playing.py" width="350">
 
 
 
