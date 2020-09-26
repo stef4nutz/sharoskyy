@@ -26,7 +26,7 @@ Any concepts/design that I've made will be posted on <a href="https://www.behanc
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></a>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextjs.svg" /></a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></a>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /></a>
 
