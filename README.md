@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Stephen (known as sharosky) and I am a 19 year old front-end developer.
+Hi, my name is Stephen (known as sharosky).
 <br>
 Currently I'm learning: NextJS
 <br>
