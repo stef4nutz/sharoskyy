@@ -2,7 +2,7 @@
 
 Hi, my name is Stephen (known as sharosky).
 <br>
-Currently I'm learning: React.js
+Currently I'm learning: React
 <br>
 I plan to learn in the near future (but i'm too lazy): Elixir, Vue.js
 
