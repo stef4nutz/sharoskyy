@@ -2,9 +2,9 @@
 
 Hi, my name is Stephen (known as sharosky).
 <br>
-Currently I'm learning: NextJS
+Currently I'm learning: React.js
 <br>
-I plan to learn in the near future (but i'm too lazy): NuxtJS
+I plan to learn in the near future (but i'm too lazy): Elixir, Vue.js
 
 ### Maintained Projects 💻
 
