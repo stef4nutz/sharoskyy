@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I don't read manga.
 
 ### 🔌 Links
+- 💡 <a href="https://sharosky.wtf">My website!</a>
 - 📺 <a href="https://anilist.co/user/sharosky/animelist">My anime list!</a>
 - 🐦 <a href="https://twitter.com/sharoskyy">Twitter</a>
 - 💬 <a href="https://discord.com/users/413326085065801729">Discord</a>
