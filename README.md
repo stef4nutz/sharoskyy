@@ -5,7 +5,6 @@
 - 🤔 I use ```.html```, ```.css```, ``` .js```, ```.jsx```
 - 🌱 I’m currently learning ~~backend~~.
 - 💬 Talk to me about anime, games & movies.
-- 😄 Pronouns: He/His/Him.
 - 🎶 I do love music, it's my daily routine.
 - ⚡ Fun fact: I don't read manga.
 
