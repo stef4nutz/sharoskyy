@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning ~~backend~~.
 - 💬 Talk to me about anime, games & movies.
 - 🎶 I do love music, it's my daily routine.
-- ⚡ Fun fact: I don't read manga.
 
 ### 🔌 Links
 - 💡 <a href="https://sharosky.wtf">My website!</a>
