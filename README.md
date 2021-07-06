@@ -1,5 +1,5 @@
 ### howdy webtraveler! 👋
-☠ ~~I'd like to do project that has relation to anime.~~ Outdated. I do not want to webdevelop anything since I lost totally interest into it. I still do some basic things for friends.
+⚙ Currently working at a new project. (discord.gg/yukino)
 
 ### 🤵 About Me
 - 🤔 I use ```.html```, ```.css```, ``` .js```, ```.jsx```
