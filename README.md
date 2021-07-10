@@ -1,5 +1,5 @@
 ### howdy webtraveler! 👋
-⚙ Currently working at a new project. (discord.gg/yukino)
+💀 I don't look to work with anyone. The recent project died.
 
 ### 🤵 About Me
 - 🤔 I use ```.html```, ```.css```, ``` .js```, ```.jsx```
