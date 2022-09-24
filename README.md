@@ -1,5 +1,5 @@
 ### howdy webtraveler! 👋
-💀 I don't look to work with anyone. The recent project died.
+💀 I don't look to work with anyone on projects. Full time Freelancing
 
 ### 🤵 About Me
 - 🤔 I use ```.html```, ```.css```, ``` .js```, ```.jsx```
