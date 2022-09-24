@@ -2,7 +2,6 @@
 💀 I don't look to work with anyone. The recent project died.
 
 ### 🤵 About Me
-- ⁉️ Currently retired.
 - 🤔 I use ```.html```, ```.css```, ``` .js```, ```.jsx```
 - 🌱 I’m currently learning ~~backend~~.
 - 💬 Talk to me about anime, games & movies.
